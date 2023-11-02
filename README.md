@@ -1,7 +1,6 @@
 ```
 Hi, I’m Puppeteer
 I’m currently learning C++ and Javascript
-You can reach me through my Github messages.
 ```
 :shipit:
 
